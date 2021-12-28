@@ -11,7 +11,7 @@
       <li>Aula 6 – Aprofundando em funções <code>() =&gt; {}</code> ✅</li>
     </ul>
 </div>
-## informações <br>
+# informações <br>
 
 <p>
     Projeto do  bootcamp inter Front-end developer
